@@ -17,4 +17,4 @@ Frontend: CSS and HTML
 
 Authentication: ngrok for https tunneling
 
-<!--- <a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<img src="hompage.png" alt="">
